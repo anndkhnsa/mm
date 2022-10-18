@@ -4,7 +4,7 @@
 <head>
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<title>Fasilitas Multimedia</title>
+	<title> Multimedia</title>
     	<!--[if lt IE 9]>
 	<script src="https://smart.sch.id/wp-content/themes/kinder/js/html5.js" type="text/javascript"></script>
 	<![endif]-->

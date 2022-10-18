@@ -53,7 +53,7 @@
         </nav>
       </header>
 <div class="text">
-  <h1>PPPPP<br>SMK N 1 BANTUL</h1>
+  <h1>MULTIMEDIA<br>SMK N 1 BANTUL</h1>
   <p>Salah satu jurusan favorit di SMK N 1 BANTUL</p>
   <span><a href="">READ MORE</a></span>
 </div>

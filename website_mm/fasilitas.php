@@ -4,7 +4,7 @@
 <head>
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<title> Multimedia</title>
+	<title>Fasilitas Multimedia</title>
     	<!--[if lt IE 9]>
 	<script src="https://smart.sch.id/wp-content/themes/kinder/js/html5.js" type="text/javascript"></script>
 	<![endif]-->
@@ -323,30 +323,7 @@ background-color: 070069;
 			
 			
 ><!-- ./blackStyle -->
-				
-				 
-				<div class="copyWrap">
-					<div class="copy main">
-<div class="copyright">
-<a href="https://smart.sch.id">Sekolah Smart School Jagakarsa </a> &copy; 2019- 2020 All Rights Reserved
-</div>
-						<div class="copy_socials socPage">
-							<ul>
-															<li><a class="social_icons social_facebook" style="background-image: url(https://smart.sch.id/wp-content/themes/kinder/images/socials/facebook_dark.png);" target="_blank" href="https://www.facebook.com/sdsmartschool/"><span style="background-image: url(https://smart.sch.id/wp-content/themes/kinder/images/socials/facebook_dark.png);"></span></a></li>
-																<li><a class="social_icons social_youtube" style="background-image: url(https://smart.sch.id/wp-content/themes/kinder/images/socials/youtube_dark.png);" target="_blank" href="https://www.youtube.com/channel/UC1IS8jIA4q-DmuO2wca9KYQ"><span style="background-image: url(https://smart.sch.id/wp-content/themes/kinder/images/socials/youtube_dark.png);"></span></a></li>
-																<li><a class="social_icons social_instagram" style="background-image: url(https://smart.sch.id/wp-content/themes/kinder/images/socials/instagram_dark.png);" target="_blank" href="https://www.instagram.com/sdsmartschool/"><span style="background-image: url(https://smart.sch.id/wp-content/themes/kinder/images/socials/instagram_dark.png);"></span></a></li>
-															</ul>
-						</div>
-					</div>
-				</div>
-							
-			</div><!-- /.footerContentWrap -->
-
-			
-		</div><!-- ./boxedWrap -->
-
-	</div><!-- ./main_content -->
-
+    
 <script type="text/javascript">
 
 

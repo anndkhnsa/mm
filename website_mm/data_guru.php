@@ -217,7 +217,7 @@ nav{
 }
 
 .isi{
-    height: 100px;
+    height: 150px;
     width: 100%;
     background-color: #eee;
 }

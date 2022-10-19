@@ -133,6 +133,7 @@ nav{
 
 </head>
 <body>
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
 
 <div class="top">
 
@@ -154,7 +155,7 @@ nav{
               <div class="navbar">
 
                 <div class="dropdownn">
-                <button class="dropbtnn">PROFIL▼
+                <button class="dropbtnn">PROFIL
                   <i class="fa fa-caret-down"></i>
                 </button>
                   <div class="dropdown-contentt">

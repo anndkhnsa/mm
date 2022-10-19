@@ -23,6 +23,8 @@
     </script>
 </head>
 <body>
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+
 <div class="top">
 <div class='bghitam'></div>
 <!-- navigation-bar -->
@@ -34,7 +36,7 @@
                 <li><a href="">HOME</a></li>
                   <div class="navbar">
                     <div class="dropdown">
-                    <button class="dropbtn">PROFIL▼
+                    <button class="dropbtn">PROFIL
                       <i class="fa fa-caret-down"></i>
                     </button>
                       <div class="dropdown-content">
@@ -112,58 +114,6 @@
 
 </div>
 
-<div id="berita">
-<h1><p style="text-align:center"> BERITA TERBARU</p></h1>
-<h2><p style="text-align:center">Menyajikan berita terbaru dan terkini terkait multimedia seperti prestasi yang diaraih dan berbagai macam informasi lainnya.
-</p></h2>
-
-<div class="grid4">
-
-<div class="grid3">
-
-<img src="img/rpl.jpg">
-
-<p>BERITA TERBARU</p>
-
-<h2>What is Lorem Ipsum?</h2>
-
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-
-<a href="">READ MORE...</a>
-
-</div>
-
-<div class="grid3">
-
-<img src="img/rpl.jpg">
-
-<p>BERITA TERBARU</p>
-
-<h2>What is Lorem Ipsum?</h2>
-
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-
-<a href="">READ MORE...</a>
-
-</div>
-
-<div class="grid3">
-
-<img src="img/rpl.jpg">
-
-<p>BERITA TERBARU</p>
-
-<h2>What is Lorem Ipsum?</h2>
-
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-
-<a href="">READ MORE...</a>
-
-</div>
-
-</div>
-
-</div>
 
 <div class="kontak">
 
@@ -189,7 +139,8 @@
 </div>
 
 <div class="footer">
- <center><p>Copyrights© 2022 SMK N 1 Bantul <span>Developed by</span>  RPL 1 </p></center></div>
+ <center><p>Copyrights© 2022 SMK N 1 Bantul <span>Developed by</span>  RPL 1 </p></center>
+</div>
 
 
 

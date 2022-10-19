@@ -84,7 +84,7 @@
 <div id="visimisi">
 <div class="misivisi">
 
-<center><h2 class="judul_visi">VISI DAN MISI</h2></center>
+<center><h1 class="judul_visi">VISI DAN MISI</h1></center>
 
 <div class="isi">
 <h2 class="visi_misi">VISI</h3>
@@ -98,7 +98,7 @@
 
 <div class="depan">
 
-<img src="img/depan.png">
+<img src="img/depan.png" style="display:block; margin:auto;">
 
 </div>
 

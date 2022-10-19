@@ -219,6 +219,7 @@ background-color: 070069;
 
 </head>
 <body>
+
 <div class="top">
 <div class='bghitam'></div>
 
@@ -291,6 +292,5 @@ background-color: 070069;
       <a href="#">More</a>
     </div>
   </div>
-
-</body>
-</html>
+  </body>
+</html> 

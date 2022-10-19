@@ -31,7 +31,7 @@
 
       <style>
 body{
-    font-family: tahoma; 
+    font-family: Arial; 
 }
 .menu img {
     float: left; 
@@ -70,13 +70,13 @@ nav{
 }
 /* Dropdown button */
 .dropdownn .dropbtnn {
-    font-size: 16px;
+    /* font-size: 16px; */
     border: none;
     outline: none;
     color: hwb(0 100% 0%);
     padding: 0px 10px;
     background-color: inherit;
-    font-family: inherit; /* Important for vertical align on mobile phones */
+    font-family: Arial; /* Important for vertical align on mobile phones */
     margin: 0; /* Important for vertical align on mobile phones */
 }
 /* Dropdown content (hidden by default) */
@@ -90,6 +90,7 @@ nav{
 }
 /* Links inside the dropdown */
 .dropdown-contentt a {
+    font-family: Arial;
     float: none;
     color: #fff;
     padding: 12px 16px;

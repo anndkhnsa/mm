@@ -3,7 +3,11 @@
 </div>
 
 <style>
-    .footer {
+.footer {
+    position:relative;
+    bottom:0;
+    width:100%;
+    height:60px;   /* tinggi dari footer */
     border-top: 3px solid #000;
     color: #000; 
     padding: 20px;

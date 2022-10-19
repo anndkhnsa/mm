@@ -17,7 +17,8 @@
 
 
 <!-- navigation-bar -->
-<header class="bg">
+<?php include('includes/navbar.php');?>
+<!-- <header class="bg">
 
 <nav>
 
@@ -54,7 +55,7 @@
   </div>
 </nav>
 </header> 
-</div>
+</div> -->
 <div class="isi"></div>
 
 
@@ -110,6 +111,7 @@
           </div>
 
         </div>
+        <?php include('includes/footer.php');?>
       </div>
 
 <style type="text/css">
@@ -358,5 +360,6 @@ nav{
 <script type="text/javascript">
 
 </script>
+
 </body>
 </html>

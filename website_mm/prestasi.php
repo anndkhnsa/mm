@@ -136,13 +136,14 @@ background-color: 070069;
 </head>
 <body>
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
-<div class="top">
+<!-- <div class="top">
 
-<div class='bghitam'></div>
+<div class='bghitam'></div> -->
 
 
 <!-- navigation-bar -->
-  <header class="bg">
+<?php include('includes/navbar.php');?>
+  <!-- <header class="bg">
 
     <nav>
 
@@ -179,7 +180,7 @@ background-color: 070069;
       </div>
     </nav>
   </header> 
-</div>
+</div> -->
 
 
 <div class="isi"></div>

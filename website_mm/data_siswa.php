@@ -135,13 +135,14 @@ nav{
 <body>
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
 
-<div class="top">
+<!-- <div class="top">
 
-<div class='bghitam'></div>
+<div class='bghitam'></div> -->
 
 
 <!-- navigation-bar -->
-  <header class="bg">
+<?php include('includes/navbar.php');?>
+  <!-- <header class="bg">
 
     <nav>
 
@@ -178,7 +179,7 @@ nav{
       </div>
     </nav>
   </header> 
-</div>
+</div> -->
 
 
 <div class="isi"></div>
@@ -271,6 +272,6 @@ nav{
 
 
 </div>
-
+<?php include('includes/footer.php');?>
 </body>
 </html>

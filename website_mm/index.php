@@ -137,10 +137,11 @@
 
 </div>
 
-<div class="footer">
+<!-- <div class="footer">
  <center><p>Copyrights© 2022 SMK N 1 Bantul <span>Developed by</span>  RPL 1 </p></center>
-</div>
-
+</div> -->
+<!-- footer -->
+<?php include('includes/footer.php');?>
 
 
 

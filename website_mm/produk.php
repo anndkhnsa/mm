@@ -152,7 +152,7 @@ background-color: 070069;
 }
 .container .heading h3{
   font-size: 3em;
-  font-weight: bolder;
+  /* font-weight: bolder; */
   padding-bottom: 10px;
   border-bottom: 3px solid #222;
 }
@@ -298,8 +298,9 @@ background-color: 070069;
       <a href="#">More</a>
     </div>
 
+  </div>
 
-      <?php include('includes/footer.php');?> 
+      <?php include('includes/footer.php');?>
 
   </body>
 </html> 

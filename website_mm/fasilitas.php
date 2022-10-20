@@ -132,7 +132,11 @@ img.emoji {
 <div class="content">
 <div class="itemscope" itemscope itemtype="http://schema.org/Article">
 		<section class="post post_format_standard postRight no_margin post-2791 page type-page status-publish hentry">
-				<article class="post_content">			<h1 itemprop="name" class="post_title entry-title">Fasilitas Multimedia</h1>
+				<article class="post_content">			
+					<div class="heading">
+						<center><h1 itemprop="name" class="post_title entry-title mt-5">Fasilitas Multimedia</h1></center>
+						<hr style="width: 450px;"color="black"size="100"/>
+					</div>
 			
 <div class="post_text_area" itemprop="articleBody"><h3>&gt; Ruang Kelas</h3>
 <p>Ruang kelas dilengkapi pendingin ruangan (AC) dan didesain agar anak merasa nyaman dan dapat berinteraksi dengan guru serta teman-temannya dengan leluasa. Selain meja-kursi, disediakan karpet untuk kegiatan circle time dan pembelajaran di dalam kelas. Letak meja dan kursi dapat dirubah sesuai dengan kebutuhan pembelajaran. Masing-masing kelas dilengkapi dengan Library Corner untuk menunjang program membaca siswa.</p>

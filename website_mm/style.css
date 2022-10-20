@@ -7,6 +7,11 @@ body {
     margin: 0; 
     font-weight: lighter;
 }
+
+.hero-image {
+    background-image: url("img/bg.jpeg");
+}
+
 .top {
     background-image: url(img/bg.jpeg); 
     background-size: cover; 
@@ -184,6 +189,11 @@ nav.black  {
     border: 1px solid transparent; 
     padding-top: 20px;
 }
+
+.sub-image {
+    margin-top: 50px;
+}
+
 .misivisi {
     padding-top: 70px; 
     height: 200px;
@@ -191,19 +201,22 @@ nav.black  {
     color: #000;
 }
 .misivisi .judul_visi{
-    font-size: 20px;
+    font-size: px;
     font-family: bold;
 }
 .misivisi p{
     padding-left: 100px;
+    margin-bottom: 1em;
 }
+
+
 .misivisi .isi p{
     padding-left: 90px;
-    font-family: ;
+    font-family: bold;
     
 }
 .misivisi .visi_misi {
-    padding-left: 90px;
+    padding-left: 50px;
     font-family: lighter;
     font-size: 28px;
 }
@@ -213,7 +226,6 @@ nav.black  {
 .depan img {
     width: 100%; 
     z-index: -3; 
-    height: 300px;
 }
 .grid2 {
     display: grid; 
@@ -235,8 +247,7 @@ nav.black  {
     padding-top: 20px;
     cursor: pointer;
 }
-.subscribe h1{
-}
+
 .berita{
     text-align: center; 
     padding-top: 50px;
@@ -270,8 +281,8 @@ nav.black  {
 }
 .kontak {
     background-color: #fff;
-    height: 80vh; 
     background-size: cover; 
+    margin-bottom: 40px;
     width: 100%;
 }
 .kontak img{
@@ -295,6 +306,7 @@ nav.black  {
     height: 200px;
     text-align: center;
 }
+
 .hub-1 img{
     color: #fff;
     justify-content: baseline;

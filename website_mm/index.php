@@ -29,7 +29,7 @@
 <div class='bghitam'></div>
 <!-- navigation-bar -->
       <header class="bg">
-        <nav>
+        <nav class="bg-dark">
           <div class="menu">
             <a href=""><img src="img/logo_smk.png"></a>
               <ul>
@@ -57,8 +57,9 @@
 <div class="text">
   <h1>MULTIMEDIA<br>SMK N 1 BANTUL</h1>
   <p>Salah satu jurusan favorit di SMK N 1 BANTUL</p>
-  <span><a href="">READ MORE</a></span>
+  <span><a href="#">READ MORE</a></span>
 </div>
+<div class="hero-image"></div>
 </div>
 
 <!-- slogan -->
@@ -89,15 +90,17 @@
 <center><h1 class="judul_visi">VISI DAN MISI</h1></center>
 
 <div class="isi">
-<h2 class="visi_misi">VISI</h3>
-    <p class="isi_visi_misi" >"AKTIF, KREATIF, INOVATIF"</p>
-    <h2 class="visi_misi">MISI</h3>
-    <p class="misi">Peluang kerja yang masih terbuka luas <br> Mengingat perkembangan teknologi yang akan terus berkembang.</p>
+  <h1 class="visi_misi">VISI</h1>
+      <p class="isi_visi_misi" >"AKTIF, KREATIF, INOVATIF"</p>
+      <h1 class="visi_misi">MISI</h1>
+      <p class="misi">Peluang kerja yang masih terbuka luas <br> Mengingat perkembangan teknologi yang akan terus berkembang.</p>
+    </div>
   </div>
-</div>
+  </div>
+
 </div>
 
-
+<div class="sub-image">
 <div class="depan">
 
 <img src="img/depan.png" style="display:block; margin:auto;">
@@ -108,10 +111,6 @@
 
 <div class="subscribe">
 <img src="img/logo_mm.png" alt="">
-
-
-
-
 </div>
 
 

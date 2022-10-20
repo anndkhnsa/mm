@@ -10,9 +10,9 @@ body{
   
 }
 body {
-    font-family: Arial, Helvetica, sans-serif; 
+    /* font-family: Arial, Helvetica, sans-serif; 
     margin: 0; 
-    font-weight: lighter;
+    font-weight: lighter; */
 }
 .menu img {
     float: left; 
@@ -144,7 +144,6 @@ background-color: 070069;
   justify-content: center;
   align-items: center;
   text-align: center;
-  margin: 40px 20px 0 20px;
 }
 
 .container .heading{
@@ -168,7 +167,6 @@ background-color: 070069;
 }
 
 .container .box .dream{
-  display: flex;
   flex-direction: column;
   width: 32.5%;
 }
@@ -214,6 +212,12 @@ background-color: 070069;
 
 }
 
+
+}
+
+
+.isi h3 {
+  margin-top: 150px;
 }
 </style>
 
@@ -221,12 +225,13 @@ background-color: 070069;
 <body>
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
 
-<div class="top">
-<div class='bghitam'></div>
+<!-- <div class="top">
+<div class='bghitam'></div> -->
 
 
 <!-- navigation-bar -->
-  <header class="bg">
+<?php include('includes/navbar.php');?>
+  <!-- <header class="bg">
     <nav>
       <div class="menu">
         <a href=""><img src="img/logo_smk.png"></a>
@@ -252,11 +257,11 @@ background-color: 070069;
       </div>
     </nav>
   </header> 
-</div>
+</div> -->
 
 
 
-<div class="isi"></div>
+<div class="isi">
   <div class="container">
     <div class="heading">
       <h3> Produk <span>Multimedia</span></h3>
@@ -292,6 +297,9 @@ background-color: 070069;
     <div class="btn">
       <a href="#">More</a>
     </div>
-  </div>
+
+
+      <?php include('includes/footer.php');?> 
+
   </body>
 </html> 
